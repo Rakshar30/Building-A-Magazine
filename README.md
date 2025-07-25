@@ -1,0 +1,1 @@
+BUILDING A MAGAZINE : Designed And Developed A Digital Magazine Layout Using HTML And CSS, Featuring Structured Content Sections, Visually Appealing Typography, And Responsive Design For Optimal Viewing Across Devices.
